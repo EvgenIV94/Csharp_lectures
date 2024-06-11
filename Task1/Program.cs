@@ -38,3 +38,21 @@
 // double sum = a + b;     // сумма будет типа double
 // Console.WriteLine(sum);
 
+// int a = 5;
+// int b = 6;
+// int quotient = a / b;       // ответ должен быть 5/6, но вывод = 0. У int нет дробной части
+// Console.WriteLine(quotient);
+
+// int a = 5;
+// double b = 6;
+// double quotient = a / b;       // ответ 0.8(3)
+// Console.WriteLine(quotient);
+
+// int a = 5;
+// int b = 15;
+// double c = 7;
+// int d = 2;
+
+// double i = (a*b)/(c+d);
+// Console.WriteLine(i);
+
