@@ -1,0 +1,14 @@
+/Users/evgen/VSCode_C#/lectures1/Task1/bin/Debug/net7.0/Task1
+/Users/evgen/VSCode_C#/lectures1/Task1/bin/Debug/net7.0/Task1.deps.json
+/Users/evgen/VSCode_C#/lectures1/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/Users/evgen/VSCode_C#/lectures1/Task1/bin/Debug/net7.0/Task1.dll
+/Users/evgen/VSCode_C#/lectures1/Task1/bin/Debug/net7.0/Task1.pdb
+/Users/evgen/VSCode_C#/lectures1/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgen/VSCode_C#/lectures1/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/evgen/VSCode_C#/lectures1/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/evgen/VSCode_C#/lectures1/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Users/evgen/VSCode_C#/lectures1/Task1/obj/Debug/net7.0/Task1.dll
+/Users/evgen/VSCode_C#/lectures1/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Users/evgen/VSCode_C#/lectures1/Task1/obj/Debug/net7.0/Task1.pdb
+/Users/evgen/VSCode_C#/lectures1/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/Users/evgen/VSCode_C#/lectures1/Task1/obj/Debug/net7.0/ref/Task1.dll
