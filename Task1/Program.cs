@@ -56,3 +56,53 @@
 // double i = (a*b)/(c+d);
 // Console.WriteLine(i);
 
+// int a = 9;
+// int b = 7;
+
+// if (a > b)
+// {
+//     Console.WriteLine(a);
+// }
+// else
+// {
+//     Console.WriteLine(b);
+// }
+// Запись условия if - else
+
+
+// int a = 20;
+// int b = 25;
+// int c = 30;
+// int d = 35;
+// int e = 3;
+
+// int max = a;
+// if (b > max)
+// {
+//     max = b;
+// }
+// if (c > max)
+// {
+//     max = c;
+// }
+// if (d > max)
+// {
+//     max = d;
+// }
+// if (e > max)
+// {
+//     max = e;
+// }
+// Console.WriteLine(max);      // в C# нету операции elif
+
+
+int n = 10;
+int i = 1;
+
+while (i <= n)       // пока i <= n
+{
+    // Console.WriteLine(i);
+    Console.Write(i);       // вывод в строку
+    Console.Write(' ');     // разделяем пробелом
+    i = i + 1;
+}
